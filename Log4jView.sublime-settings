@@ -3,7 +3,7 @@
 	"syntax": "Packages/Log4jView/Log4jView.tmLanguage",
 	"log_file": "Log4jView.log",
 	"extensions": [
-		"log",
-		"logfile"
+		"txt",
+		"txtfile"
 	]
 }
